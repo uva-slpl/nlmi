@@ -4,7 +4,7 @@ email: w.aziz@uva.nl
 description: > 
     Here you will find additional material for NLMI (NTMI in Dutch) offered at UvA.
 url: "https://uva-slpl.github.io" # the base hostname & protocol for your site
-baseurl: "/nlmi" # the subpath of your site, e.g. /blog/
+baseurl: "/nlmi-2018" # the subpath of your site, e.g. /blog/
 github_username:  uva-slpl
 #paginate: 3
 
